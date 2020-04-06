@@ -1,6 +1,7 @@
 # blog
 
 ### [Lodash 源码解析（更新中）](https://www.yuque.com/lanchengtie/rbtkp2)
+### [关于用设计模式刷 LeetCode 这件事](https://github.com/LazyDuke/blog/issues/12)
 ### [【详细笔记】JavaScript数字类型详解](https://github.com/LazyDuke/blog/issues/11)
 ### [【重学数据结构与算法(JS)】字符串匹配算法(四)——Sunday算法 ](https://github.com/LazyDuke/blog/issues/10)
 ### [【重学数据结构与算法(JS)】字符串匹配算法(三)——BM算法](https://github.com/LazyDuke/blog/issues/9)
